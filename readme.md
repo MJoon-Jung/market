@@ -8,6 +8,7 @@
 
 서버 실행
 ```
+npm install
 npm run dev
 ```
 json-server 실행
