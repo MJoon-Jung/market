@@ -6,12 +6,12 @@
 - [x] 등록한 상품 수정
 - [x] 상품 삭제
 
-서버 실행
+npm
 ```
 npm install
 npm run dev
 ```
-json-server 실행
+json-server
 ```
 cp db.example.json db.json
 json-server --watch db.json --port 3001
